@@ -32,7 +32,7 @@
 
 ### 6. [Introduction to IT Security](https://www.coursera.org/learn/akamai-security?specialization=akamai-customer-consulting-and-support)
 
-####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/GUUF3YLZAPAE_
+####    **Certificate:**
 #
 
 

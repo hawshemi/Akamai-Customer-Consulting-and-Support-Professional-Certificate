@@ -7,7 +7,7 @@
 
 ### 1. [Operating Systems Fundamentals](https://www.coursera.org/learn/akamai-operating-systems?specialization=akamai-customer-consulting-and-support)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/7XLVTFARK48N_
 #
 
 ### 2. [Networking Fundamentals](https://www.coursera.org/learn/akamai-networking?specialization=akamai-customer-consulting-and-support)

@@ -12,7 +12,7 @@
 
 ### 2. [Networking Fundamentals](https://www.coursera.org/learn/akamai-networking?specialization=akamai-customer-consulting-and-support)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/BNJZAJSR8DXF_
 #
 
 ### 3. [Introduction to Web Applications](https://www.coursera.org/learn/akamai-web-apps?specialization=akamai-customer-consulting-and-support)

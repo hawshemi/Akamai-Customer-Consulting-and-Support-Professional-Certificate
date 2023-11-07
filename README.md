@@ -22,7 +22,7 @@
 
 ### 4. [Managing Relational Databases](https://www.coursera.org/learn/akamai-databases?specialization=akamai-customer-consulting-and-support)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/RL6KQRR76DGD_
 #
 
 ### 5. [Python Scripting Fundamentals](https://www.coursera.org/learn/akamai-programming?specialization=akamai-customer-consulting-and-support)

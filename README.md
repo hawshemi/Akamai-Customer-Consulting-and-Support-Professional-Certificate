@@ -27,7 +27,7 @@
 
 ### 5. [Python Scripting Fundamentals](https://www.coursera.org/learn/akamai-programming?specialization=akamai-customer-consulting-and-support)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/Z4SS2GL4A5DA_
 #
 
 ### 6. [Introduction to IT Security](https://www.coursera.org/learn/akamai-security?specialization=akamai-customer-consulting-and-support)

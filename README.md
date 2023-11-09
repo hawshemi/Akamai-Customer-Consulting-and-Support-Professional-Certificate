@@ -2,7 +2,7 @@
 
 
 ## [Akamai Customer Consulting and Support Professional Certificate](https://www.coursera.org/professional-certificates/akamai-customer-consulting-and-support)
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/professional-cert/EN3UN4PUAN6G_
 #
 
 ### 1. [Operating Systems Fundamentals](https://www.coursera.org/learn/akamai-operating-systems?specialization=akamai-customer-consulting-and-support)
@@ -17,7 +17,7 @@
 
 ### 3. [Introduction to Web Applications](https://www.coursera.org/learn/akamai-web-apps?specialization=akamai-customer-consulting-and-support)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/QDL33A67BJYW_
 #
 
 ### 4. [Managing Relational Databases](https://www.coursera.org/learn/akamai-databases?specialization=akamai-customer-consulting-and-support)
@@ -32,7 +32,7 @@
 
 ### 6. [Introduction to IT Security](https://www.coursera.org/learn/akamai-security?specialization=akamai-customer-consulting-and-support)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/UANHLTW6BH5J_
 #
 
 
